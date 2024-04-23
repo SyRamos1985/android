@@ -39,10 +39,4 @@ intuitiva e fácil de usar, garantindo que os usuários possam navegar,
 adicionar e editar informações de forma eficiente. Isso será alcançado
 usando componentes como <Text>, <TextInput>, e <Image>.
 
-- Resultados esperados
 
-Após seguir esses passos, você teve uma compreensão inicial dos princípios
-do React Native, incluindo como criar componentes, utilizar props e adicionar
-imagens. Estas são as bases para a construção de aplicativos móveis eficazes
-e de alta qualidade. Com base nos códigos acima você verá os seguintes
-componentes que serão base para a construção do seu aplicativo.
